@@ -1,0 +1,6 @@
+•	CT-PET
+https://www.kaggle.com/datasets/sshhwweettaa/dicom-ld/data
+•	IQ-OTH/NCCD 
+https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data
+•	Lung Cancer MRI Images dataset
+https://www.kaggle.com/datasets/xiaopengzhang12/lung-cancer-mri-images
